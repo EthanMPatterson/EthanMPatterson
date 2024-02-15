@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanMPatterson
 - 👀 I’m interested in learning to build applications from the ground up tailored to specific requests of a client.
-- 🌱 I’m currently learning the basic fundamentals of software development   
+- 🌱 I’m currently learning the basic fundamentals of software development through the Coding Temple program. 
 - ⚡ Fun fact: Just moved from AZ to RI. 
 
 <!---
